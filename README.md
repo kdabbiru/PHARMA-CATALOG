@@ -55,6 +55,6 @@ This Pharma Supply Chain System leverages **Smart Contracts** and **Blockchain**
 
 ## Contact Information
 
-- **GitHub**: [github.com/Yash1626](https://github.com/kdabbiru)
+- **GitHub**: [github.com/kdabbiru](https://github.com/kdabbiru)
 
 
